@@ -1,0 +1,12 @@
+# Node modules folder
+node_modules/
+
+# Todo data file
+todos.json
+
+# VS Code settings folder
+.vscode/
+
+# Optional system files
+.DS_Store
+Thumbs.db
